@@ -63,7 +63,7 @@ print("List sesudah diubah :", warna)
 ```python
 warna[4:] = ["hitam", "putih"]
 print("Ubah element ke-4 hingga akhir :", warna)
-``s
+```
 
 ### Output
 ![Gambar 4](screenshots/ss3.jpg)
