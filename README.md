@@ -1,5 +1,5 @@
 # labspy04
-## 2. (Akses/Menambah/Ubah) Sebuah list
+## 1. (Akses/Menambah/Ubah) Sebuah list
 ## Latihan List
 
 ### Akses List
@@ -111,7 +111,7 @@ print(a + b)
 
 
 
-## Praktikum
+## 2. Praktikum
 ### Program sederhana untuk menambahkan data kedalam sebuat list 
 #### Program
 ![Gambar7](screenshots/ss6.jpg)
