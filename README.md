@@ -42,7 +42,8 @@ print(warna[-1])
 ###  Ubah List
 - Ubah elemen ke-4 dengan nilai lainnya
 - Ubah elemen ke-4 sampai dengan elemen terakhir
-s1#### Program
+
+#### Program
 ![Gambar 3](screenshots/ss2.jpg)
 
 #### Penjelasan
